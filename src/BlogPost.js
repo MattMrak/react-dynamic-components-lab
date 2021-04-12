@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Comment from './Comment'
+import Comment from './Comment';
 // are we missing an import?
 
 class BlogPost extends Component {
